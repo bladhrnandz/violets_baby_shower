@@ -1,6 +1,6 @@
 h1 {
   font-family: "Dekko";
-  font-size: 150px;
+  font-size: 6rem;
   color: white;
   text-align: center;
 }
@@ -12,10 +12,10 @@ h2 {
 }
 .baby_name {
   color: white;
-  font-size:60px;
+ 
   font-family: Snell Roundhand,
   cursive;
-  font-size: 150px;
+  font-size: 6rem;
 }
 h3 {
   color: white;
@@ -119,20 +119,20 @@ body {
 /* Top left text */
 .top-left {
   position: absolute;
-    top: 5%;
-    right: 40%;
+    top: 10%;
+    right: 50%;
     font-family: "Dekko";
-    font-size: 150px;
+    font-size: 6rem;
     color: white;
   }
 
 /* Top right text */
 .top-right {
   position: absolute;
-    top: 5%;
+    top: 10%;
     right: 25%;
     font-family: "Dekko";
-    font-size: 150px;
+    font-size: 6rem;
     color: white;
   }
 
@@ -142,7 +142,7 @@ body {
     top: 75%;
     right: 25%;
     font-family: "Dekko";
-    font-size: 150px;
+    font-size: 6rem;
     color: white;
 }
 .bottom-left {
@@ -150,17 +150,17 @@ body {
   top: 60%;
   right: 40%;
   font-family: "Dekko";
-  font-size: 150px;
+  font-size: 6rem;
   color: white;
 }
 
 /* Centered text */
 .top-centered {
   position: absolute;
-    top: 5%;
-    right: 35%;
+    top: 10%;
+    right: 40%;
     font-family: "Dekko";
-    font-size: 150px;
+    font-size: 6rem;
     color: white;
   }
 
