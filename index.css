@@ -1,3 +1,4 @@
+
 h1 {
   font-family: "Dekko";
   font-size: 6rem;
@@ -104,6 +105,7 @@ body {
   /* Rounded border */
  width: 50%;
  height: auto;
+ margin: 5%;
  
 }
 .last_image{
